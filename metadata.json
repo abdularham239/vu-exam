@@ -1,0 +1,8 @@
+{
+  "name": "Medha Study & Exam Studio",
+  "description": "Comprehensive study workspace for active reading, interactive concept highlighting, Cornell exam notes, flashcards, and AI-powered practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
